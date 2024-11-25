@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @samy-dk
-  
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in ...
-  ML/AI and Cloud, as well as general computer science/engineering
+  General computer science/engineering, but especially high performant systems and Rust
   
 - 🌱 I’m currently learning ...
-  Rust by making a cli tool to help me learn Japanese. I'm hoping to expand this into a website!
+  Bevy for games in Rust
 <!---
 samy-dk/samy-dk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
